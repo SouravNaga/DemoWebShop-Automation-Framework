@@ -1,0 +1,48 @@
+04:32:23.322 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:32:23.462 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:32:23.986 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:32:34.177 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Finished TC_003_LoginDDT *****
+04:32:34.183 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:32:34.816 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:32:34.982 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:32:35.589 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:32:45.623 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Finished TC_003_LoginDDT *****
+04:32:45.628 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:32:46.236 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:32:46.404 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:32:47.414 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:33:32.511 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:33:33.242 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:33:33.415 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:33:34.441 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:33:35.550 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Finished TC_003_LoginDDT *****
+04:33:35.560 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:33:36.192 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:33:36.332 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:33:36.778 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:33:47.024 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Test failed *****
+04:33:47.035 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:33:47.642 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:33:47.813 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:33:48.320 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:33:58.556 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Finished TC_003_LoginDDT *****
+04:33:58.560 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Started TC_003_LoginDDT *****
+04:33:59.147 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login link clicked *****
+04:33:59.310 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Data entered successfully *****
+04:34:00.246 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Login button clicked *****
+04:34:01.714 [main] INFO  testCases.TC_002_LoginFunctionalityTest - **** Finished TC_003_LoginDDT *****
+02:04:39.258 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****starting TC_001_AccountRegistrationTest ****
+02:04:40.210 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+02:04:40.284 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - gender clicked successfully
+02:04:40.706 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - all details are entered successfully
+02:04:41.954 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Registration button clicked successfully
+02:04:41.992 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - verification started .....
+02:04:41.992 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - test passed .....
+02:04:42.026 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Finished TC_001_AccountRegistrationTest ****
+02:04:42.497 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****starting TC_001_AccountRegistrationTest ****
+02:04:43.203 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+02:04:43.286 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - gender clicked successfully
+02:04:43.666 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - all details are entered successfully
+02:04:44.743 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Registration button clicked successfully
+02:04:44.816 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - verification started .....
+02:04:44.816 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed .....

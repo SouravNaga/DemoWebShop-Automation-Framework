@@ -1,0 +1,14 @@
+11:04:55.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - gender clicked successfully
+11:04:56.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - all details are entered successfully
+11:04:57.496 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration button clicked successfully
+11:04:57.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - verification started .....
+11:04:57.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed .....
+11:04:57.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Finished TC_001_AccountRegistrationTest ****
+11:05:41.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****starting TC_001_AccountRegistrationTest ****
+11:05:41.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+11:05:41.969 [main] INFO  testCases.TC_001_AccountRegistrationTest - gender clicked successfully
+11:05:42.519 [main] INFO  testCases.TC_001_AccountRegistrationTest - all details are entered successfully
+11:05:43.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration button clicked successfully
+11:05:43.928 [main] INFO  testCases.TC_001_AccountRegistrationTest - verification started .....
+11:05:43.928 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed .....
+11:05:43.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Finished TC_001_AccountRegistrationTest ****
